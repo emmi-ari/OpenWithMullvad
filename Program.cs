@@ -1,9 +1,6 @@
 ﻿using System.Diagnostics;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System;
 
 #pragma warning disable SYSLIB1045 // Convert to 'GeneratedRegexAttribute'.
 namespace CeresDSP
